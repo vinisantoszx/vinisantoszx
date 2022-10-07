@@ -1,4 +1,4 @@
-## Olá, sou Vinícius Santos 👾
+## Olá! Sou Vinícius Santos 👾
 
 ### Futuro Engenheiro de Software 💻
 
