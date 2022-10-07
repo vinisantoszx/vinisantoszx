@@ -8,8 +8,7 @@
 
 <div>
   <a href="https://github.com/vinisantoszx">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisantoszx&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
   ##
