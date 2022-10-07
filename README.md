@@ -1,5 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on
+### Olá, sou Vinícius Santos 👾
+
+Futuro Engenheiro de Software 💻
 <!--
 **vinisantoszx/vinisantoszx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
