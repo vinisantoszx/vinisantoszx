@@ -4,7 +4,7 @@
 
 - 🔭 Estou cursando Téc. em Desenvolvimento de Sistemas
 - 🌱 Estudando WEB e SQL
-- 📫 IG: @____viniciussantos___
+- 📫 IG: @_____viniciussantos____
 
 <div>
   <a href="https://github.com/vinisantoszx">
