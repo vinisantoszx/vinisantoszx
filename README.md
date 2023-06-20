@@ -3,7 +3,7 @@
 ### Futuro Engenheiro de Software 💻
 
 - 🔭 Estou cursando Téc. em Desenvolvimento de Sistemas
-- 🌱 Estudando Python
+- 🌱 Estudando WEB e SQL
 - 📫 IG: @__viniciussantos_
 
 <div>
