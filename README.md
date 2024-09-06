@@ -11,11 +11,10 @@
 </div>
   
   ##
-  ### Estou aprendendo:
+<!--  ### Estou aprendendo:
 <div style="display: inline_block">
-  <img align="center" alt="Vini-Dart" src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FFFFFF">
-  <img align="center" alt="Vini-Flutter" src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FFFFFF">
-</div>
+  
+</div> -->
 
   ##
   ### Tecnologias com experiência:
@@ -27,6 +26,8 @@
   <img align="center" alt="Vini-JS" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Vini-HTML" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Vini-CSS" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Vini-Dart" src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FFFFFF">
+  <img align="center" alt="Vini-Flutter" src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FFFFFF">
 </div>
 
   ##
