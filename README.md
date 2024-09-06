@@ -10,8 +10,8 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
 </div>
   
-  ##
-<!--  ### Estou aprendendo:
+<!--  ##
+  ### Estou aprendendo:
 <div style="display: inline_block">
   
 </div> -->
