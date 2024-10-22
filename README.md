@@ -5,10 +5,10 @@
 - 🔭 Estou cursando Téc. em Desenvolvimento de Sistemas
 - 📫 IG: @__viniciussantos_
 
-<!-- <div>
+<div>
   <a href="https://github.com/vinisantoszx">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-</div> -->
+</div>
   
 <!--  ##
   ### Estou aprendendo:
