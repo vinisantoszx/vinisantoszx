@@ -2,7 +2,8 @@
 
 ### Futuro Engenheiro de Software 💻
 
-- 🔭 Estou cursando Téc. em Desenvolvimento de Sistemas
+- 🔭 Formado em Téc. em Desenvolvimento de Sistemas
+- 🔭 Cursando Sistemas de Informação
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=blue_navy)
   
