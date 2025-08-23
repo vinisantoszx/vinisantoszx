@@ -1,6 +1,6 @@
 ## Olá! Sou Vinícius Santos 👾
 
-### Futuro Engenheiro de Software 💻
+### Engenheiro de Software 💻
 
 - 🔭 Formado em Téc. em Desenvolvimento de Sistemas
 - 🔭 Cursando Sistemas de Informação
