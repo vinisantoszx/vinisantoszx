@@ -1,11 +1,11 @@
-## Olá! Sou Vinícius Santos 👾
+## Hi! I'm Vinícius Santos!
 
-### Engenheiro de Software 💻
+### Software Enginner
 
-- 🔭 Formado em Téc. em Desenvolvimento de Sistemas
-- 🔭 Cursando Sistemas de Informação
+- Graduated in Systems Analysis and Development
+- Undergraduate in Information Systems
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=blue_navy)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=blue_navy) -->
   
 <!--  ##
   ### Estou aprendendo:
@@ -14,7 +14,7 @@
 </div> -->
 
   ##
-  ### Tecnologias com experiência:
+  ### Experienced Technologies:
 <div style="display: inline_block">
   <!--<img align="center" alt="Vini-SQL" src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img align="center" alt="Vini-MariaDB" src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white">-->
@@ -28,9 +28,9 @@
 </div>
 
   ##
-  ### Redes Sociais:
+  ### Social Media:
 <div>
   <a href="https://instagram.com/__viniciussantos_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://web.telegram.org/viniciussatos009" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/vinisantos_23" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target=_blank"></a>
+  <!-- <a href="https://web.telegram.org/viniciussatos009" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> -->
+  <a href="https://twitter.com/__viniciussanto" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target=_blank"></a>
 </div>
