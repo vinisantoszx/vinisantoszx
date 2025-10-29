@@ -5,7 +5,7 @@
 - Graduated in Systems Analysis and Development
 - Undergraduate in Information Systems
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=blue_navy) -->
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=blue_navy)
   
 <!--  ##
   ### Estou aprendendo:
