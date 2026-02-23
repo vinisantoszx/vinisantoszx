@@ -1,6 +1,6 @@
 ## Hi! I'm Vinícius Santos!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinisantoszx&theme=blueberry-duo)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinisantoszx&theme=blueberry-duo) -->
 
 ### Software Enginner
 
