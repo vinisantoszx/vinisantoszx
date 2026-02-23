@@ -5,7 +5,7 @@
 - Graduated in Systems Analysis and Development
 - Undergraduate in Information Systems
 
-[vinisantoszx GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisantoszx&show_icons=true&theme=blue_navy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisantoszx)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--  ##
   ### Estou aprendendo:
