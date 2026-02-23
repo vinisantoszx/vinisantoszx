@@ -1,11 +1,12 @@
 ## Hi! I'm Vinícius Santos!
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinisantoszx&theme=blueberry-duo)
+
 ### Software Enginner
 
 - Graduated in Systems Analysis and Development
 - Undergraduate in Information Systems
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisantoszx)](https://github.com/vinisantoszx/github-readme-stats)
   
 <!--  ##
   ### Estou aprendendo:
